@@ -2,6 +2,6 @@
 
 ## Test
 > **This file is a test**
-> *first
-> *second
+> * first
+> * second
 > >yes
