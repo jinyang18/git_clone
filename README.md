@@ -1,7 +1,7 @@
 # git_clone
 
-## Test
-> **This file is a test**
-> * first
-> * second
-> >yes
+## This is a readme file.
+> **Hello world**
+> + first
+> + second
+> + third
